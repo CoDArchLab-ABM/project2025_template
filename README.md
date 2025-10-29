@@ -21,7 +21,7 @@ Replace this text with a short description of your own project once you fork the
 
 | Folder | Contents | Purpose |
 |---------|-----------|----------|
-| `model/` | NetLogo model files (`.nlogo`) | Implementation of your simulation |
+| `model/` | NetLogo model files (`.nlogo`, `.nlogox`) | Implementation of your simulation |
 | `data/` | Input datasets (e.g., environment, agents) | Empirical or synthetic data |
 | `results/` | Simulation outputs | Results from experiments or BehaviorSpace runs |
 | `analysis/` | R scripts and outputs | Data preparation, analysis and visualisation |
